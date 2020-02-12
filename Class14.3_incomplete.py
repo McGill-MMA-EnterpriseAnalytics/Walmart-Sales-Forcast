@@ -37,4 +37,4 @@ for klass, color in zip(range(0, 5), colors):
 fig2.plot(df.iloc[optics.labels_ == -1, 0], df.iloc[optics.labels_ == -1, 1], 'k+', alpha=0.1)
 fig2.set_title('OPTICS Clustering')
 
-df = read
+Hello
